@@ -1,4 +1,3 @@
 # Data-Science-Course-Project
--This project is a collaberative project
+-Code for this project is not available yet. Since this project is a collaberative project, I did not get permission from Aditya Jasuja to post the code. 
 
--However, Aditya Jasuja took charge of coding.
